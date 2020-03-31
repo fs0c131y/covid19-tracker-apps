@@ -16,7 +16,7 @@ com.pixxonai.covid19
 com.telkom.tracencare
 edu.mit.privatekit
 in.gov.punjab.cova
-it.laziocrea.rlgeoapp
+it.lispa.sire.app.mobile.allertalom 
 kr.go.safekorea.sqsm
 org.madrid.CoronaMadrid
 pl.nask.droid.kwarantannadomowa
