@@ -5,7 +5,9 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 ## Governmental Apps
 
 | Country            | Android                                                                           | iOS                                                                 |
-| ------------------ | --------------------------------------------------------------------------------- |  ------------------------------------------------------------------ |
+| ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
+| Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
 | Guatemala          | https://play.google.com/store/apps/details?id=com.intelligent.alertaguate         | https://apps.apple.com/us/app/alerta-guate/id1472419119             |
 | Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
 | Colombia           | https://play.google.com/store/apps/details?id=co.gov.ins.guardianes               | https://apps.apple.com/co/app/coronapp-colombia/id1502037648        |

@@ -22,3 +22,5 @@ org.madrid.CoronaMadrid
 pl.nask.droid.kwarantannadomowa
 sg.gov.tech.bluetrace
 uy.gub.salud.plancovid19uy
+com.askgps.personaltrackerround
+tr.gov.saglik.koronaonlem
