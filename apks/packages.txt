@@ -26,3 +26,4 @@ com.askgps.personaltrackerround
 tr.gov.saglik.koronaonlem
 mx.gob.www
 com.erictelm2m.colabora
+nic.goi.aarogyasetu

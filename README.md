@@ -8,6 +8,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
 | Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
+| India              | https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu                 | https://apps.apple.com/in/app/aarogyasetu/id1505825357              |
 | Euskadi            | https://play.google.com/store/apps/details?id=com.erictelm2m.colabora             | https://apps.apple.com/es/app/covid-19-eus/id1504249338             |
 | Guatemala          | https://play.google.com/store/apps/details?id=com.intelligent.alertaguate         | https://apps.apple.com/us/app/alerta-guate/id1472419119             |
 | Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
