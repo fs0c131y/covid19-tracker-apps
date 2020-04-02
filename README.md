@@ -8,6 +8,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
 | Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
 | Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
+| Euskadi            | https://play.google.com/store/apps/details?id=com.erictelm2m.colabora             | https://apps.apple.com/es/app/covid-19-eus/id1504249338             |
 | Guatemala          | https://play.google.com/store/apps/details?id=com.intelligent.alertaguate         | https://apps.apple.com/us/app/alerta-guate/id1472419119             |
 | Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
 | Colombia           | https://play.google.com/store/apps/details?id=co.gov.ins.guardianes               | https://apps.apple.com/co/app/coronapp-colombia/id1502037648        |
@@ -15,6 +16,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | U.K                | https://play.google.com/store/apps/details?id=com.joinzoe.covid_zoe               | https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611    |
 | Vietnam            | https://play.google.com/store/apps/details?id=com.Eha.covid_19                    | https://apps.apple.com/us/app/covid-19/id1501810040?ls=1            |
 | Mexico             |                                                                                   | https://apps.apple.com/fr/app/covid-19-jalisco/id1504356187         |
+| Mexico             | https://play.google.com/store/apps/details?id=mx.gob.www                          |                                                                     |
 | Espana (Madrid)    | https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid             | https://apps.apple.com/es/app/coronamadrid/id1502911576             |
 | Espana (Catalonia) | https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat      | https://apps.apple.com/us/app/stop-covid19-cat/id1502992288         |
 | India (Kavach)     | https://play.google.com/store/apps/details?id=com.cosafe.android                  |                                                                     |

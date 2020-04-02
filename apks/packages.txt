@@ -24,3 +24,5 @@ sg.gov.tech.bluetrace
 uy.gub.salud.plancovid19uy
 com.askgps.personaltrackerround
 tr.gov.saglik.koronaonlem
+mx.gob.www
+com.erictelm2m.colabora
