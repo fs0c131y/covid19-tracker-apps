@@ -24,6 +24,8 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | India (Punjab)     | https://play.google.com/store/apps/details?id=in.gov.punjab.cova                  | https://apps.apple.com/fr/app/cova-punjab/id1501977319              |
 | India (Karnataka)  | https://kgis.ksrsac.in/kgisdocuments/Apk/corona_v1.apk                            |                                                                     |
 | Italy (Lombardia)  | https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom | https://apps.apple.com/it/app/allertalom/id1455220682               |
+| Italy (Lazio)  | https://play.google.com/store/apps/details?id=com.intellicare.covid | https://apps.apple.com/it/app/laziodrcovid/id1503189116               |
+| Italy (Lazio)  | https://play.google.com/store/apps/details?id=it.adl.aslroma3.covid19.app |                |
 | Austria            | https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona            | https://apps.apple.com/at/app/apple-store/id1503717224              |
 | Argentina          | https://play.google.com/store/apps/details?id=ar.gob.coronavirus                  |                                                                     |
 | Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |
