@@ -34,6 +34,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | Switzerland        | https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss            | https://apps.apple.com/ch/app/alertswiss/id957339177                |
 | Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
 | U.K                | https://play.google.com/store/apps/details?id=com.joinzoe.covid_zoe               | https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611    |
+| UAE                |                                                                                   | https://apps.apple.com/sa/app/tawakkalna/id1506236754               |
 | Uruguay            | https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy          | https://apps.apple.com/us/app/coronavirus-uy/id1503026854           |
 | Vietnam            | https://play.google.com/store/apps/details?id=com.Eha.covid_19                    | https://apps.apple.com/us/app/covid-19/id1501810040?ls=1            |
 
