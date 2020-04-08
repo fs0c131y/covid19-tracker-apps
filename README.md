@@ -6,43 +6,43 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 
 | Country            | Android                                                                           | iOS                                                                 |
 | ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Bulgaria           | https://play.google.com/store/apps/details?id=bg.government.virusafe              | https://apps.apple.com/bg/app/virusafe/id1506362170                 |
+| Argentina          | https://play.google.com/store/apps/details?id=ar.gob.coronavirus                  |                                                                     |
+| Austria            | https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona            | https://apps.apple.com/at/app/apple-store/id1503717224              |
+| Australia          | https://play.google.com/store/apps/details?id=au.gov.health.covid19               | https://apps.apple.com/au/app/coronavirus-australia/id1503846231    |
 | Bahrain            | https://play.google.com/store/apps/details?id=bh.bahrain.corona.tracker           | https://apps.apple.com/app/id1501478858                             |
-| Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
-| Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
-| India              | https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu                 | https://apps.apple.com/in/app/aarogyasetu/id1505825357              |
+| Brazil             | https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes            | https://apps.apple.com/fr/app/coronav%C3%ADrus-sus/id1408008382     |
+| Bulgaria           | https://play.google.com/store/apps/details?id=bg.government.virusafe              | https://apps.apple.com/bg/app/virusafe/id1506362170                 |
+| Colombia           | https://play.google.com/store/apps/details?id=co.gov.ins.guardianes               | https://apps.apple.com/co/app/coronapp-colombia/id1502037648        |
+| Espana (Catalonia) | https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat      | https://apps.apple.com/us/app/stop-covid19-cat/id1502992288         |
+| Espana (Madrid)    | https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid             | https://apps.apple.com/es/app/coronamadrid/id1502911576             |
 | Euskadi            | https://play.google.com/store/apps/details?id=com.erictelm2m.colabora             | https://apps.apple.com/es/app/covid-19-eus/id1504249338             |
 | Guatemala          | https://play.google.com/store/apps/details?id=com.intelligent.alertaguate         | https://apps.apple.com/us/app/alerta-guate/id1472419119             |
-| Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
-| Colombia           | https://play.google.com/store/apps/details?id=co.gov.ins.guardianes               | https://apps.apple.com/co/app/coronapp-colombia/id1502037648        |
-| Brazil             | https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes            | https://apps.apple.com/fr/app/coronav%C3%ADrus-sus/id1408008382     |
-| U.K                | https://play.google.com/store/apps/details?id=com.joinzoe.covid_zoe               | https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611    |
-| Vietnam            | https://play.google.com/store/apps/details?id=com.Eha.covid_19                    | https://apps.apple.com/us/app/covid-19/id1501810040?ls=1            |
-| Mexico             |                                                                                   | https://apps.apple.com/fr/app/covid-19-jalisco/id1504356187         |
-| Mexico             | https://play.google.com/store/apps/details?id=mx.gob.www                          |                                                                     |
-| Espana (Madrid)    | https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid             | https://apps.apple.com/es/app/coronamadrid/id1502911576             |
-| Espana (Catalonia) | https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat      | https://apps.apple.com/us/app/stop-covid19-cat/id1502992288         |
-| India (Kavach)     | https://play.google.com/store/apps/details?id=com.cosafe.android                  |                                                                     |
+| India              | https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu                 | https://apps.apple.com/in/app/aarogyasetu/id1505825357              |
 | India (Punjab)     | https://play.google.com/store/apps/details?id=in.gov.punjab.cova                  | https://apps.apple.com/fr/app/cova-punjab/id1501977319              |
 | India (Karnataka)  | https://kgis.ksrsac.in/kgisdocuments/Apk/corona_v1.apk                            |                                                                     |
-| Italy (Lombardia)  | https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom | https://apps.apple.com/it/app/allertalom/id1455220682               |
-| Austria            | https://play.google.com/store/apps/details?id=at.roteskreuz.stopcorona            | https://apps.apple.com/at/app/apple-store/id1503717224              |
-| Argentina          | https://play.google.com/store/apps/details?id=ar.gob.coronavirus                  |                                                                     |
-| Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |
-| Poland             | https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa     | https://apps.apple.com/pl/app/kwarantanna-domowa/id1502997499       |
-| Iran               | https://dl.ac19.ir/ac19.apk                                                       |                                                                     |
+| India (Kavach)     | https://play.google.com/store/apps/details?id=com.cosafe.android                  |                                                                     |
 | Indonesia          | https://play.google.com/store/apps/details?id=com.telkom.tracencare               |                                                                     |
-| Uruguay            | https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy          | https://apps.apple.com/us/app/coronavirus-uy/id1503026854           |
-| Australia          | https://play.google.com/store/apps/details?id=au.gov.health.covid19               | https://apps.apple.com/au/app/coronavirus-australia/id1503846231    |
-| Switzerland        | https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss            | https://apps.apple.com/ch/app/alertswiss/id957339177                |
+| Iran               | https://dl.ac19.ir/ac19.apk                                                       |                                                                     |
+| Italy (Lombardia)  | https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom | https://apps.apple.com/it/app/allertalom/id1455220682               |
+| Mexico             |                                                                                   | https://apps.apple.com/fr/app/covid-19-jalisco/id1504356187         |
+| Mexico             | https://play.google.com/store/apps/details?id=mx.gob.www                          |                                                                     |
+| Poland             | https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa     | https://apps.apple.com/pl/app/kwarantanna-domowa/id1502997499       |
+| Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |
+| Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
+| Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
 | South Korea        | https://play.google.com/store/apps/details?id=kr.go.safekorea.sqsm                | [Shorter link](https://apps.apple.com/gb/app/%EC%9E%90%EA%B0%80%EA%B2%A9%EB%A6%AC%EC%9E%90-%EC%95%88%EC%A0%84%EB%B3%B4%ED%98%B8/id1502372537) |
+| Switzerland        | https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss            | https://apps.apple.com/ch/app/alertswiss/id957339177                |
+| Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
+| U.K                | https://play.google.com/store/apps/details?id=com.joinzoe.covid_zoe               | https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611    |
+| Uruguay            | https://play.google.com/store/apps/details?id=uy.gub.salud.plancovid19uy          | https://apps.apple.com/us/app/coronavirus-uy/id1503026854           |
+| Vietnam            | https://play.google.com/store/apps/details?id=com.Eha.covid_19                    | https://apps.apple.com/us/app/covid-19/id1501810040?ls=1            |
 
 ## Police Apps
 
 | Country            | Android                                                                       | iOS                                                             |
 | ------------------ | ----------------------------------------------------------------------------- |  -------------------------------------------------------------- |
+| India (Karnataka)  | https://play.google.com/store/apps/details?id=com.bmc.qrtnwatch               |                                                                 |
 | India (Tamil Nadu) | https://play.google.com/store/apps/details?id=com.pixxonai.covid19            |                                                                 |
-| India (Karnataka)    | https://play.google.com/store/apps/details?id=com.bmc.qrtnwatch               |                                                                 |
 
 ## Open Source Apps
 
@@ -55,8 +55,8 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 
 | Org                | Website                                 |
 | ------------------ | --------------------------------------- |
-| MIT                | http://privatekit.mit.edu/              |
 | DP-3T              | https://www.pepp-pt.org/                |
+| MIT                | http://privatekit.mit.edu/              |
 
 ## Contribution
 
