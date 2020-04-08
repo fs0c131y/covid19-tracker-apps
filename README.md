@@ -6,6 +6,8 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 
 | Country            | Android                                                                           | iOS                                                                 |
 | ------------------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| Bulgaria           | https://play.google.com/store/apps/details?id=bg.government.virusafe              | https://apps.apple.com/bg/app/virusafe/id1506362170                 |
+| Bahrain            | https://play.google.com/store/apps/details?id=bh.bahrain.corona.tracker           | https://apps.apple.com/app/id1501478858                             |
 | Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
 | Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
 | India              | https://play.google.com/store/apps/details?id=nic.goi.aarogyasetu                 | https://apps.apple.com/in/app/aarogyasetu/id1505825357              |
@@ -46,13 +48,15 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 
 | Country            | Android                                                                       | iOS                                                             | Repo
 | ------------------ | ----------------------------------------------------------------------------- |  -------------------------------------------------------------- |  ------------------------------------------------------------ |
+| Iceland            | https://play.google.com/store/apps/details?id=is.landlaeknir.rakning          | https://apps.apple.com/is/app/rakning-c-19/id1504655876         | https://github.com/aranja/rakning-c19-app
 | Israël             | https://play.google.com/store/apps/details?id=com.hamagen                     | [Shorter link](https://apps.apple.com/us/app/%D7%94%D7%9E%D7%92%D7%9F-%D7%90%D7%A4%D7%9C%D7%99%D7%A7%D7%A6%D7%99%D7%94-%D7%9C%D7%9E%D7%9C%D7%97%D7%9E%D7%94-%D7%91%D7%A7%D7%95%D7%A8%D7%95%D7%A0%D7%94/id1503224314) | https://github.com/MohGovIL/hamagen-react-native
 
 ## Org Apps
 
-| Org                | Android                                                                       | iOS                                                              |
-| ------------------ | ----------------------------------------------------------------------------- |  --------------------------------------------------------------- |
-| MIT                | https://play.google.com/store/apps/details?id=edu.mit.privatekit              | https://apps.apple.com/us/app/private-kit-prototype/id1501903733 |
+| Org                | Website                                 |
+| ------------------ | --------------------------------------- |
+| MIT                | http://privatekit.mit.edu/              |
+| DP-3T              | https://www.pepp-pt.org/                |
 
 ## Contribution
 
