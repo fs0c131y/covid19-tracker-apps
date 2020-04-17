@@ -12,6 +12,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | Bahrain            | https://play.google.com/store/apps/details?id=bh.bahrain.corona.tracker           | https://apps.apple.com/app/id1501478858                             |
 | Brazil             | https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes            | https://apps.apple.com/fr/app/coronav%C3%ADrus-sus/id1408008382     |
 | Bulgaria           | https://play.google.com/store/apps/details?id=bg.government.virusafe              | https://apps.apple.com/bg/app/virusafe/id1506362170                 |
+| Chile              | https://play.google.com/store/apps/details?id=cl.gob.digital.coronapp             | https://apps.apple.com/us/app/coronapp/id1504598922                 |
 | Colombia           | https://play.google.com/store/apps/details?id=co.gov.ins.guardianes               | https://apps.apple.com/co/app/coronapp-colombia/id1502037648        |
 | Espana (Catalonia) | https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat      | https://apps.apple.com/us/app/stop-covid19-cat/id1502992288         |
 | Espana (Madrid)    | https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid             | https://apps.apple.com/es/app/coronamadrid/id1502911576             |
@@ -24,8 +25,11 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | Indonesia          | https://play.google.com/store/apps/details?id=com.telkom.tracencare               |                                                                     |
 | Iran               | https://dl.ac19.ir/ac19.apk                                                       |                                                                     |
 | Italy (Lombardia)  | https://play.google.com/store/apps/details?id=it.lispa.sire.app.mobile.allertalom | https://apps.apple.com/it/app/allertalom/id1455220682               |
+| Kuwait             | https://play.google.com/store/apps/details?id=com.healthcarekw.app                | [Shorter link](https://apps.apple.com/kw/app/shlonik-%D8%B4%D9%84%D9%88%D9%86%D9%83/id1503978984)               |
+| Macedonia          | https://play.google.com/store/apps/details?id=mk.gov.koronavirus.stop             | https://apps.apple.com/mk/app/stopkorona!/id1506641869              |
 | Mexico             |                                                                                   | https://apps.apple.com/fr/app/covid-19-jalisco/id1504356187         |
 | Mexico             | https://play.google.com/store/apps/details?id=mx.gob.www                          |                                                                     |
+| Norway             | https://play.google.com/store/apps/details?id=no.simula.smittestopp               | https://apps.apple.com/no/app/smittestopp/id1506165384              |
 | Poland             | https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa     | https://apps.apple.com/pl/app/kwarantanna-domowa/id1502997499       |
 | Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |
 | Russia             | https://play.google.com/store/apps/details?id=com.askgps.personaltrackerround     |                                                                     |
@@ -58,6 +62,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | ------------------ | --------------------------------------- |
 | DP-3T              | https://www.pepp-pt.org/                |
 | MIT                | http://privatekit.mit.edu/              |
+| MIT                | https://pact.mit.edu/                   |
 
 ## Contribution
 
