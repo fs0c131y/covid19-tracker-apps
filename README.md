@@ -36,6 +36,7 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
 | South Korea        | https://play.google.com/store/apps/details?id=kr.go.safekorea.sqsm                | [Shorter link](https://apps.apple.com/gb/app/%EC%9E%90%EA%B0%80%EA%B2%A9%EB%A6%AC%EC%9E%90-%EC%95%88%EC%A0%84%EB%B3%B4%ED%98%B8/id1502372537) |
 | Switzerland        | https://play.google.com/store/apps/details?id=ch.admin.babs.alertswiss            | https://apps.apple.com/ch/app/alertswiss/id957339177                |
+| Thailand           | https://play.google.com/store/apps/details?id=com.thaialert.app                   | https://apps.apple.com/th/app/id1505185420                          |
 | Turkey             | https://play.google.com/store/apps/details?id=tr.gov.saglik.koronaonlem           | https://apps.apple.com/tr/app/korona-%C3%B6nlem/id1503515316        |
 | U.K                | https://play.google.com/store/apps/details?id=com.joinzoe.covid_zoe               | https://apps.apple.com/gb/app/covid-symptom-tracker/id1503529611    |
 | UAE                |                                                                                   | https://apps.apple.com/sa/app/tawakkalna/id1506236754               |
