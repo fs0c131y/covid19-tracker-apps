@@ -20,6 +20,7 @@ com.intelligent.alertaguate
 com.joinzoe.covid_zoe
 com.pixxonai.covid19
 com.telkom.tracencare
+cz.covid19cz.erouska
 edu.mit.privatekit
 in.gov.punjab.cova
 it.lispa.sire.app.mobile.allertalom
