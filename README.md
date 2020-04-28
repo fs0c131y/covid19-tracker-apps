@@ -27,7 +27,8 @@ In order to slow down the COVID19 pandemic, governments all over the world are c
 | Mexico (Jalisco)   |                                                                                   | https://apps.apple.com/app/covid-19-jalisco/id1504356187            |                                                                                    |
 | Norway             | https://play.google.com/store/apps/details?id=no.simula.smittestopp               | https://apps.apple.com/no/app/smittestopp/id1506165384              |
 | Poland             | https://play.google.com/store/apps/details?id=pl.nask.droid.kwarantannadomowa     | https://apps.apple.com/pl/app/kwarantanna-domowa/id1502997499       |
-| Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |
+| Qatar              | https://play.google.com/store/apps/details?id=com.droobihealth.corona             | https://apps.apple.com/us/app/droobi/id1258209665                   |                                                                    |
+| Russia (Moscow)    | https://play.google.com/store/apps/details?id=com.minsvyaz.gosuslugi.stopcorona   | [Shorter link](https://apps.apple.com/ru/app/%D0%B3%D0%BE%D1%81%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B8-%D1%81%D1%82%D0%BE%D0%BF-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D0%B8%D1%80%D1%83%D1%81/id1504868945) |
 | Singapore          | https://play.google.com/store/apps/details?id=sg.gov.tech.bluetrace               | https://apps.apple.com/sg/app/tracetogether/id1498276074            |
 | Spain (Catalonia)  | https://play.google.com/store/apps/details?id=cat.gencat.mobi.StopCovid19Cat      | https://apps.apple.com/us/app/stop-covid19-cat/id1502992288         |
 | Spain (Madrid)     | https://play.google.com/store/apps/details?id=org.madrid.CoronaMadrid             | https://apps.apple.com/es/app/coronamadrid/id1502911576             |
