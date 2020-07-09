@@ -1,8 +1,0 @@
-How to install APKs Bundle (Split APKs)?
-
-- Install "Split APKs Installer" and open it.
-  https://apkplz.net/app/com.aefyr.sai
-   
-- Click "Install APKs" button and select all of the APK files in the APKs Bundle.
-
-- Click "Select" button to start the installation process.
